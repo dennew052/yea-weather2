@@ -1,7 +1,7 @@
 import './app.css';
 import Search from './components/Search';
 import { useWeather } from './hooks/useWeather';
-import WeatherContent from "./components/WeatherContent.tsx";
+import WeatherContent from "./components/WeatherContent";
 
 function App() {
     const {
